@@ -1,0 +1,27 @@
+.background{
+    background-color: #0f172a;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.member{
+    display: flex;
+    margin-bottom: 10px;
+    width: 350px;
+}
+
+img{
+    height: 90px;
+    width: 90px;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
